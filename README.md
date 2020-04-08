@@ -1,1 +1,1 @@
-# educovid.github.io
+# educacioncovid.github.io
